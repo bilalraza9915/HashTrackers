@@ -47,7 +47,7 @@
     /* justify-content: left; */
 }
 .image-section{
-    float: right;
+    float: left;
     width: 48%;
 }
 .image-section img{
